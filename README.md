@@ -66,47 +66,6 @@ Proje, `train_users_2.csv` dosyasını kullanmaktadır. Bu dosyayı proje klasö
 
 Bu proje bir staj projesi kapsamında geliştirilmiştir.
 
-## 📤 GitHub'a Yükleme
-
-Projenizi GitHub'a yüklemek için aşağıdaki adımları izleyin:
-
-1. **GitHub'da yeni bir repository oluşturun:**
-   - GitHub.com'a gidin ve yeni bir repository oluşturun
-   - Repository adını belirleyin (örn: `verigorsellestirme`)
-   - Public veya Private seçin
-
-2. **Proje klasöründe Git repository'sini başlatın:**
-   ```bash
-   git init
-   ```
-
-3. **Dosyaları ekleyin:**
-   ```bash
-   git add README.md requirements.txt .gitignore VeriGorsellestirme.ipynb
-   ```
-
-4. **İlk commit'i yapın:**
-   ```bash
-   git commit -m "İlk commit: Veri görselleştirme projesi"
-   ```
-
-5. **GitHub repository'nizi remote olarak ekleyin:**
-   ```bash
-   git remote add origin https://github.com/KULLANICI_ADINIZ/REPOSITORY_ADI.git
-   ```
-   (KULLANICI_ADINIZ ve REPOSITORY_ADI kısımlarını kendi bilgilerinizle değiştirin)
-
-6. **Ana branch'i main olarak ayarlayın:**
-   ```bash
-   git branch -M main
-   ```
-
-7. **Dosyaları GitHub'a yükleyin:**
-   ```bash
-   git push -u origin main
-   ```
-
-**Not:** İlk kez push yapıyorsanız, GitHub kullanıcı adı ve şifreniz (veya Personal Access Token) istenebilir.
 
 ## 📄 Lisans
 
